@@ -98,7 +98,7 @@ This platform streamlines the entire sales-to-close pipeline:
 *Customizable sales tax percentages, default deposit rules, custom legal notes/disclaimers, and company logo uploads.*
 
 <p align="center">
-  <img src="./LeftSidePanel.png" alt="Business Settings & Branding" width="95%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  <img src="./setting.png" alt="Business Settings & Branding" width="95%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 </p>
 
 ---
