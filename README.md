@@ -46,6 +46,9 @@ This platform streamlines the entire sales-to-close pipeline:
 <p align="center">
   <img src="./MainPage_DashBoard.png" alt="Dashboard & Analytics View" width="95%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 </p>
+<p align="center">
+  <img src="./AnalityPage.png" alt="Dashboard & Analytics View" width="95%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+</p>
 
 ---
 
@@ -53,7 +56,7 @@ This platform streamlines the entire sales-to-close pipeline:
 *Live multi-item calculation with support for materials, linear footage, custom labor, hardware, permits, and deposit rules.*
 
 <p align="center">
-  <img src="./estimate-builder.png" alt="Dynamic Estimate Builder" width="95%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  <img src="./CreateNewStimate.png" alt="Dynamic Estimate Builder" width="95%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 </p>
 
 ---
