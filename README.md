@@ -67,6 +67,9 @@ This platform streamlines the entire sales-to-close pipeline:
 <p align="center">
   <img src="./estimate-preview.png" alt="Client Estimate Preview & PDF" width="95%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 </p>
+<p align="center">
+  <img src="./estimate-preview1.png" alt="Client Estimate Preview & PDF" width="95%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+</p>
 
 ---
 
@@ -85,6 +88,9 @@ This platform streamlines the entire sales-to-close pipeline:
 <p align="center">
   <img src="./ProductCatalog.png" alt="Product & Materials Catalog" width="95%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 </p>
+<p align="center">
+  <img src="./AddNewItem.png" alt="Product & Materials Catalog" width="95%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+</p>
 
 ---
 
@@ -92,7 +98,7 @@ This platform streamlines the entire sales-to-close pipeline:
 *Customizable sales tax percentages, default deposit rules, custom legal notes/disclaimers, and company logo uploads.*
 
 <p align="center">
-  <img src="./settings.png" alt="Business Settings & Branding" width="95%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  <img src="./LeftSidePanel.png" alt="Business Settings & Branding" width="95%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 </p>
 
 ---
