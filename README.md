@@ -71,7 +71,7 @@ This platform streamlines the entire sales-to-close pipeline:
 *Comprehensive client directory tracking historical estimates, contact details, and client lifetime revenue.*
 
 <p align="center">
-  <img src="./customers.png" alt="Customer Management CRM" width="95%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  <img src="./AddNewCustomer.png" alt="Customer Management CRM" width="95%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 </p>
 
 ---
@@ -80,7 +80,7 @@ This platform streamlines the entire sales-to-close pipeline:
 *Centralized pricing database for fencing materials (wood, vinyl, chain link, aluminum), gates, labor rates, and permits.*
 
 <p align="center">
-  <img src="./products.png" alt="Product & Materials Catalog" width="95%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  <img src="./ProductCatalog.png" alt="Product & Materials Catalog" width="95%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 </p>
 
 ---
